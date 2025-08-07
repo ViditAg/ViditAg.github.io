@@ -1,2 +1,3 @@
 # ViditAg.github.io
-My Resume
+
+Here I show-case my profile and my recent AI projects!
