@@ -1,3 +1,3 @@
-# This reverts commit <commit_sha>.
+# ViditAg.github.io
 
-# Reverted changes details
+Here I show-case my profile and my recent AI projects!
